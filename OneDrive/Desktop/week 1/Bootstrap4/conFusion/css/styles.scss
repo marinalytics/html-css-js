@@ -77,13 +77,13 @@ body{
 
 .modal-content {
     .modal-header {
-        background: #512DA8;
-        color: #D1C4E9;
+        background: $background-dark;
+        color: $background-pale;
         .close {
-            color: #D1C4E9;
+            color: floralwhite;
         }
     }
     .modal-body {
-        background: #D1C4E9;
+        background: floralwhite;
     }
 }
